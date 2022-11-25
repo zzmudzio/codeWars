@@ -1,6 +1,7 @@
 package pl.zzmudzio.solutions;
 
-import java.util.*;
+import pl.zzmudzio.solutions.prizeDrawKata.Rank;
+
 
 public class Main {
     public static void main(String[] args) {
@@ -9,7 +10,4 @@ public class Main {
 }
 
 
-// {Andrew=213, Addison=292, Sofia=55, Michael=232, Jayden=130, Lily=62, YLil=62}
-// [55, 62, 62, 130, 213, 232, 292]
-// [Addison, Andrew, Jayden, Lily, Michael, Sofia, YLil]
 
