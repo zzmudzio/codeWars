@@ -1,4 +1,4 @@
-package pl.zzmudzio.solutions.NewCashierKata;
+package pl.zzmudzio.solutions.new_cashier_kata;
 
 import java.util.Arrays;
 import java.util.List;

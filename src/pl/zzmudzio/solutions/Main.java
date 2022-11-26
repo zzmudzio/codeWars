@@ -1,7 +1,7 @@
 package pl.zzmudzio.solutions;
 
 
-import pl.zzmudzio.solutions.NewCashierKata.Solution;
+import pl.zzmudzio.solutions.new_cashier_kata.Solution;
 
 public class Main {
     public static void main(String[] args) {

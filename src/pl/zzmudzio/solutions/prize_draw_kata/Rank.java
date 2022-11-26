@@ -1,4 +1,4 @@
-package pl.zzmudzio.solutions.prizeDrawKata;
+package pl.zzmudzio.solutions.prize_draw_kata;
 
 import java.util.ArrayList;
 import java.util.Collections;
