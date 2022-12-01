@@ -2,7 +2,6 @@ package pl.zzmudzio.solutions.steps_in_primes_kata;
 
 import java.util.List;
 import java.util.stream.IntStream;
-import com.google.common.math.IntMath;
 
 
 public class StepInPrimes {

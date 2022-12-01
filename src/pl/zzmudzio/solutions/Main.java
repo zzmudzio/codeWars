@@ -1,14 +1,10 @@
 package pl.zzmudzio.solutions;
 
-import com.google.common.math.IntMath;
-import pl.zzmudzio.solutions.steps_in_primes_kata.StepInPrimes;
+import pl.zzmudzio.solutions.english_beggars.Kata;
 
 public class Main {
     public static void main(String[] args) {
-        long[] result = StepInPrimes.step(2,10000000, 11000000);
-        for(long element : result) {
-            System.out.print(element);
-        }
+        Kata.beggars(new int[]{1,2,3,4,5}, 2);
     }
 }
 
